@@ -1,2 +1,3 @@
 my first file
 my second line in file1.txt
+my third line
